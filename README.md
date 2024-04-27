@@ -2,11 +2,11 @@
 
 Bài kiểm tra giữa kì
 # Phân Tích đề
-  1
-  2
-  3
-  4
-  5
+1
+2
+3
+4
+5
 # Đối tượng
 1
 2
