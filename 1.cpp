@@ -3,6 +3,8 @@
 #include <vector>
 using namespace std;
 
+int a = 0;
+
 //Struct để lưu trữ thông tin của mỗi thành viên hội đồng
 struct BoardMember {
     string name;
