@@ -7,6 +7,7 @@ Bài kiểm tra giữa kì
 3
 4
 5
+6
 # Đối tượng
 1
 2
